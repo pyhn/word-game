@@ -25,7 +25,7 @@ This Python project implements a word game where players attempt to guess a rand
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/word-game.git
+   git clone https://github.com/pyhn/word-game.git
    cd word-game
    ```
 
